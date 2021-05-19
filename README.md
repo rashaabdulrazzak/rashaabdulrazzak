@@ -1,8 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rasha!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rasha! 
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rashalabelle?label=Follow%20me)
 
-
+##### A web developer with a background in telecommunications engineering. I live in Istanbul. I am currently working for Aksion Technologies.
 ---
 
 🧰 Toolbox
@@ -17,7 +18,10 @@
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashaabdulrazzak&theme=dracula)](https://github.com/rashaabdulrazzak/github-readme-stats)
 
-
+## My articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/2" alt="Recent Article 2"> 
 <!--
 **rashaabdulrazzak/rashaabdulrazzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
