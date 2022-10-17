@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rashalabelle?label=Follow%20me)
 
-##### A web developer with a background in telecommunications engineering. I live in Istanbul. I am currently working with NEAR Educational Team. 
+##### A web developer with a background in telecommunications engineering. I live in Istanbul. I am currently working with antisocial lab. 
 ---
 
 🧰 Toolbox
