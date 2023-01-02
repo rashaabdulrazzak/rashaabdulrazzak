@@ -2,8 +2,15 @@
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rashalabelle?label=Follow%20me)
+<a href="https://twitter.com/rashalabelle" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/rasha-abdulrazzak/" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ##### A web developer with a background in telecommunications engineering. I live in Istanbul. I am currently working with antisocial lab. 
+#### I am interested in learning about  Blockchain (I know NEAR protocol)
+
+- 🌐 Visit my [porfolio website](https://rashaabdulrazzak.github.io/my-profile/#/) for complete background.
+- 👨 My info [Linktree profile](https://linktr.ee/rashaabdulrazzak) to find me on other platforms.
+
+
 ---
 
 🧰 Toolbox
@@ -12,11 +19,8 @@
 
 ---
 
-## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashaabdulrazzak&theme=synthwave)](https://github.com/rashaabdulrazzak/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashaabdulrazzak&theme=dracula)](https://github.com/rashaabdulrazzak/github-readme-stats)
 
 ## My articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/0" alt="Recent Article 0"> 
