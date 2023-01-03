@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rashalabelle?label=Follow%20me)
 <a href="https://twitter.com/rashalabelle" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/rasha-abdulrazzak/" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-##### A web developer with a background in telecommunications engineering. I live in Istanbul. I am currently working with antisocial lab. 
+##### A web developer with a background in telecommunications engineering. I live in Istanbul. I am currently working with antisocial lab as a frontend developer and smart contract integration.
 #### I am interested in learning about  Blockchain (I know NEAR protocol)
 
 - 🌐 Visit my [porfolio website](https://rashaabdulrazzak.github.io/my-profile/#/) for complete background.
@@ -18,8 +18,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Nodejs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb Logo" width="50" height="50"/>
 
 ---
-
-
 
 
 ## My articles
