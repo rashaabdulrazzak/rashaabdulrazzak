@@ -15,6 +15,22 @@ I've shipped real things in competitive hackathons, and I'm looking for a remote
 
 ---
 
+## Tech Stack
+
+**Frontend**
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `PrimeReact`
+
+**Mobile**
+`Flutter` 
+
+**Web3**
+`Solidity` `NEAR / Rust` `Solana` `Smart Contract Integration`
+
+**Other**
+`REST APIs` `Git` `Node.js`
+
+---
+
 ## Hackathons
 
 5 hackathons across Web2 and Web3 — some solo, some as a team.
