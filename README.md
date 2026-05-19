@@ -10,22 +10,27 @@
 - 🌐 Visit my [porfolio website](https://rashaabdulrazzak.github.io/my-profile/#/) for complete background.
 - 👨 My info [Linktree profile](https://linktr.ee/rashaabdulrazzak) to find me on other platforms.
 - 🌱 Web.3 Experience: [NEAR certified developer](https://wallet.near.org/nft-detail/certificates.unv.near/119eb8b3afe84861a9fb7463c8945ea8) and [Solana graduated bootcamp](https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/1487).
-- 💡 Hackathons: 
-
-    💙 <b>NEAR MetaBUILD III Hackathon (Sep 23 – Nov 21, 2022)</b>: team up with other developer to build a game on Aurora and Ethereum.
-    
-    💙 <b>Showcode Hackathon(2022) </b> (Build list of Projects on NEAR) gained a prize. 
-    
-    💙 <b> NEAR spring hachathon (April- May 2022)</b> it is a solo hackathon start from write basic smart contract moving to NFT projects and Social impact project. got the 6th order.
-    
-    💙 <b> Polygon Hackathon with Encode(July 2022)</b> beginner's track write smart contrat with Solidaty and deploy it to Polygon.
-    
-    💙 <b> Imapct Istanbul (2021) </b> a webdeveloper hackathon teamed up with friend and gaind the 2nd order with a prize
-    
 
 
 ---
 
+## Hackathons
+
+5 hackathons across Web2 and Web3 — some solo, some as a team.
+
+| Event | Year | Track | Result |
+|---|---|---|---|
+| Impact Istanbul | 2021 | Web dev · Team | 🥈 2nd place + prize |
+| NEAR Spring Hackathon | Apr–May 2022 | NEAR · Solo | 6th place |
+| Showcode Hackathon | 2022 | NEAR | Prize winner |
+| Polygon × Encode | Jul 2022 | Solidity · Beginner | Completed |
+| NEAR MetaBUILD III | Sep–Nov 2022 | Aurora + Ethereum · Team | Completed |
+
+**NEAR Spring (solo):** Built a full progression — basic smart contract → NFT project → social impact app on NEAR. Placed 6th.
+
+**MetaBUILD III (team):** Built and deployed a game across Aurora and Ethereum.
+
+--- 
 🧰 Toolbox
 
 | FrontEnd     | Backend      | Styling Framework      | Database      | Mobile|
