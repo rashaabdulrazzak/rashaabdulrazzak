@@ -88,3 +88,5 @@ Features RTL layout, property listings, lead capture forms, and WhatsApp integra
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/2" alt="Recent Article 2"> 
 
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=rashaabdulrazzak&theme=buefy&exclude_days=Sat)](https://git.io/streak-stats)
