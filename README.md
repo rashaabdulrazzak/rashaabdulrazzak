@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=600&lines=Frontend+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript;Web3+Developer+%7C+NEAR+%C2%B7+Solana+%C2%B7+Solidity;Open+to+remote+roles+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rashalabelle?label=Follow%20me)
-<a href="https://twitter.com/rashalabelle" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/rasha-abdulrazzak/" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/rasha-abdulrazzak/" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ## About
 I'm a frontend engineer with a background in telecommunications engineering. I build fast, clean UIs — mostly in React and Next.js — and I'm one of the relatively few frontend devs who can also handle smart contract integration on NEAR and Solana.
@@ -15,7 +15,19 @@ I've shipped real things in competitive hackathons, and I'm looking for a remote
 
 ---
 
+
 ## Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![NEAR](https://img.shields.io/badge/NEAR-000000?style=for-the-badge&logo=near&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend**
 `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `PrimeReact`
@@ -70,19 +82,9 @@ Features RTL layout, property listings, lead capture forms, and WhatsApp integra
 
 **MetaBUILD III (team):** Built and deployed a game across Aurora and Ethereum.
 
---- 
-🧰 Toolbox
-
-| FrontEnd     | Backend      | Styling Framework      | Database      | Mobile|
-| ------------- | ------------- | ------------- |------------- |------------- |
-| <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>       | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Nodejs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Nextjs Logo" width="50" height="50"/>         | <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="Tailwind Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material ui Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" alt="Bulma Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap Logo" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb Logo" width="50" height="50"/> |<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter Logo" width="50" height="50"/> |
-
----
-
 
 ## My articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/0" alt="Recent Article 0"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/2" alt="Recent Article 2"> 
-
 
