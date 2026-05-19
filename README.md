@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Rasha! 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=600&lines=Frontend+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript;Web3+Developer+%7C+NEAR+%C2%B7+Solana+%C2%B7+Solidity;Open+to+remote+roles+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rashalabelle?label=Follow%20me)
 <a href="https://twitter.com/rashalabelle" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/rasha-abdulrazzak/" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
