@@ -31,6 +31,29 @@ I've shipped real things in competitive hackathons, and I'm looking for a remote
 
 ---
 
+## Featured Projects
+
+### Thimly — [thimly.com](https://thimly.com)
+A full-stack personalization platform for custom printed products — wedding favors,
+graduation gifts, branded packaging. Users pick a template, type their text, preview
+changes live on a canvas, and export to print.
+
+The hard parts: using Fabric.js to handle real-time text and line rendering directly
+over images, and building a batch export system for premium users that calculates
+layout math to fit up to 20 versions per page without distorting the source image.
+
+**Built with:** React · Node.js · Fabric.js  
+**Shipped to:** Real clients and events
+
+### Balkan Homes — [Live site](https://rashaabdulrazzak.github.io/BalkanHomes/)
+A bilingual Arabic/Turkish real estate platform for an Istanbul-based property agency. 
+Features RTL layout, property listings, lead capture forms, and WhatsApp integration.
+
+**Built with:** HTML · CSS · JavaScript  
+**Client:** Balkan Homes, Istanbul
+
+---
+
 ## Hackathons
 
 5 hackathons across Web2 and Web3 — some solo, some as a team.
@@ -61,8 +84,7 @@ I've shipped real things in competitive hackathons, and I'm looking for a remote
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/0" alt="Recent Article 0"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasha-abdulrazzak/2" alt="Recent Article 2"> 
-<!--
-**rashaabdulrazzak/rashaabdulrazzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
