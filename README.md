@@ -91,3 +91,5 @@ Features RTL layout, property listings, lead capture forms, and WhatsApp integra
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=rashaabdulrazzak&theme=buefy&exclude_days=Sat)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rashaabdulrazzak&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
