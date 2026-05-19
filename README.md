@@ -4,8 +4,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rashalabelle?label=Follow%20me)
 <a href="https://twitter.com/rashalabelle" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/rasha-abdulrazzak/" target="_blank" rel="nofollow"><img align="right" alt="Rasha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-##### A web developer with a background in telecommunications engineering. I live in Istanbul. I am currently working with antisocial lab as a frontend developer and smart contract integration.
-#### I am interested in learning about  Blockchain (I know NEAR protocol)
+## About
+I'm a frontend engineer with a background in telecommunications engineering. I build fast, clean UIs — mostly in React and Next.js — and I'm one of the relatively few frontend devs who can also handle smart contract integration on NEAR and Solana.
+I've shipped real things in competitive hackathons, and I'm looking for a remote team where I can do the same.
 
 - 🌐 Visit my [porfolio website](https://rashaabdulrazzak.github.io/my-profile/#/) for complete background.
 - 👨 My info [Linktree profile](https://linktr.ee/rashaabdulrazzak) to find me on other platforms.
